@@ -33,12 +33,10 @@
     ```bash
       git push "url repositorio"
     ```
-    ![image]()
-    ![image]()
+    ![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/cambio1.png)
+    ![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/push1.png)
 8.	Configura el correo en git local de manera correcta
-![image](URL)
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/configuracion%20correo%20local.png)
 9.	Vuelve a subir los cambios y observa que todo esté bien en el repositorio remoto (en GitHub).
-![image](URL)
-
-Bibliografía:
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/revision%20final.png)
 
