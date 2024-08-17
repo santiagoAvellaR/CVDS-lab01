@@ -41,6 +41,7 @@
 ![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/revision%20final.png)
 
 ## PARTE II (Trabajo en parejas)
+## Integrantes: Daniel Aldana, Santiago Avellaneda 
 
 1.	Se escogen los roles para trabajar en equipo, una persona debe escoger ser "Owner" o Propietario del repositorio y la otra "Collaborator" o Colaborador en el repositorio.
    
