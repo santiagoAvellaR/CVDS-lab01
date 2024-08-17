@@ -119,6 +119,6 @@ Vamos al final y damos clic en Create
 Y así protegimos nuestra rama principal, esto se vuelve muy relevante cuando trabajamos en parejas o en equipos, deberían tener un mensaje final que se vea así
 
 ![image](https://github.com/PDSW-ECI/labs/assets/118181543/1e39b81c-82c8-4fec-b2e6-b339c782b6ad)
-
 Fecha: 17/08/24
+
 Materia: Ciclos de vida
