@@ -49,18 +49,24 @@
 2.	El owner agrega al colaborador con permisos de escritura en el repositorio que creó en la parte 1
    
      [Invitar colaboradores a un repositorio personal](https://docs.github.com/es/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/agregar%20colaborador.png)
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/agregar%20colaborador2.png)
    
 3.	El owner le comparte la url via Teams al colaborador
+4.	![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/url%20teams.png)
 4.	El colaborador acepta la invitación al repositorio
 5.	Owner y Colaborador editan el archivo README.md al mismo tiempo e intentan subir los cambios al mismo tiempo.
 6.	¿Que sucedió?
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/error1.png)
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/error2.png)
 7.	La persona que perdió la competencia de subir los cambios, tiene que resolver los conflictos, cúando haces pull de los cambios, los archivos tienen los símbolos `<<<` `===` y `>>>` (son normales en la resolución de conflictos), estos conflictos debes resolverlos manualmente.
          [Como resolver Conflictos GitHub](https://docs.github.com/es/enterprise-cloud@latest/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github)
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/correccion%20error.png)
          
 8.	Volver a repetir un cambio sobre el README.md ambas personas al tiempo para volver a tener conflictos.
    
 9.	Resuelvan el conflicto con IntelliJ si es posible,  [Resolver conflictos en IntelliJ]( https://www.jetbrains.com/help/idea/resolving-conflicts.html#distributed-version-control-systems)
-
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/correccion%20error.png)
 De esta forma ya sabes resolver conflictos directamente sobre los archivos y usando un IDE como IntelliJ, esto te será muy útil en los futuros trabajos en equipo con Git.
 
 ## PARTE III (Trabajo de a parejas)
