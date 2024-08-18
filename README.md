@@ -79,6 +79,7 @@ De esta forma ya sabes resolver conflictos directamente sobre los archivos y usa
   	![image](https://github.com/PDSW-ECI/labs/assets/118181543/074eacc9-6284-4a41-9805-c9e30a169e5d)
   	![image](https://github.com/PDSW-ECI/labs/assets/118181543/5c664e91-d3a3-4b56-867b-3b06d9ffce72)
 
+> Realizando cambios en README.md, segundo intento - Santiago Avellaneda
 	![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/agregando%20rama%20daniel.png)
 	![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/rama%20agregada%20daniel.png)
   Realizando cambios en README.md - Santiago Avellaneda
