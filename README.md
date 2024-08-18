@@ -79,9 +79,11 @@ De esta forma ya sabes resolver conflictos directamente sobre los archivos y usa
   	![image](https://github.com/PDSW-ECI/labs/assets/118181543/074eacc9-6284-4a41-9805-c9e30a169e5d)
   	![image](https://github.com/PDSW-ECI/labs/assets/118181543/5c664e91-d3a3-4b56-867b-3b06d9ffce72)
 
-> Realizando cambios en README.md, segundo intento - Santiago Avellaneda
+  Realizando cambios en README.md, segundo intento - Santiago Avellaneda
+
 	![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/agregando%20rama%20daniel.png)
 	![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/rama%20agregada%20daniel.png)
+
   Realizando cambios en README.md - Santiago Avellaneda
 
 4.	Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
@@ -124,7 +126,26 @@ Vamos al final y damos clic en Create
 Y así protegimos nuestra rama principal, esto se vuelve muy relevante cuando trabajamos en parejas o en equipos, deberían tener un mensaje final que se vea así
 
 ![image](https://github.com/PDSW-ECI/labs/assets/118181543/1e39b81c-82c8-4fec-b2e6-b339c782b6ad)
-Fecha: 17/08/24
+
+Se crea la pull request 
+
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/pull-request-unir.png)
+
+Se ve que hay un conflicto
+
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/conflicto-readme.png)
+
+Se revisa el conflicto y se soluciona
+
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/viendo-conflicto.png)
+
+Se espera review del compañero
+
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/esperando-a-review.png)
+
+Se aprueba la Pull Request y se elimina la branch
+
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/aprobada-y-branch-eliminada.png)
 
 Materia: Ciclos de vida
 
