@@ -79,22 +79,23 @@ De esta forma ya sabes resolver conflictos directamente sobre los archivos y usa
   	![image](https://github.com/PDSW-ECI/labs/assets/118181543/074eacc9-6284-4a41-9805-c9e30a169e5d)
   	![image](https://github.com/PDSW-ECI/labs/assets/118181543/5c664e91-d3a3-4b56-867b-3b06d9ffce72)
 
-> Realizando cambios en README.md - Santiago Avellaneda
-
+	![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/agregando%20rama%20daniel.png)
+	![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/rama%20agregada%20daniel.png)
+  Realizando cambios en README.md - Santiago Avellaneda
 
 4.	Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
    
      [Pull Request - GitHub](https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)
-  	
+  	    
    
  **(Recomendación : deben trabajar en equipo y distribuirse de mejor manera quien va a modificar qué, para evitar modificar los mismos archivos al mismo tiempo, si no se editan los mismos archivos la resolución de conflictos es automática)**
 
 5.	Teniendo en cuenta la recomendación, mezclen los cambios a la rama main a través de PR con el check/review/approval del otro compañero (Cuando se hace merge se deberían borrar las ramas en github)
 
 ***Como Borrar Ramas después de un Pull Request***
-
+  
 Se dirigen a la configuración de su repositorio:
-
+ 
 ![image](https://github.com/PDSW-ECI/labs/assets/118181543/859fb07c-5748-4b8e-91f4-2f5ee7229f90)
 
 Y en general
@@ -115,7 +116,7 @@ Aquí damos el nombre de nuestra rama (Verificar el nombre tal cual lo tenemos e
 
 ![image](https://github.com/PDSW-ECI/labs/assets/118181543/0631402e-6210-4b8a-a040-de594455e3b0)
 
-Vamos al final y damos clic en Create
+Vamos al final y damos clic en Create               
 
 ![image](https://github.com/PDSW-ECI/labs/assets/118181543/7e878bd7-8b68-4403-af98-380700d81459)
 
@@ -126,4 +127,3 @@ Fecha: 17/08/24
 
 Materia: Ciclos de vida
 
-Acontinuacion aparecera el codigo del boton ...
