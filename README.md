@@ -82,7 +82,9 @@ De esta forma ya sabes resolver conflictos directamente sobre los archivos y usa
   	![image](https://github.com/PDSW-ECI/labs/assets/118181543/5c664e91-d3a3-4b56-867b-3b06d9ffce72)
 
 > Realizando cambios en README.md, segundo intento - Santiago Avellaneda
-
+    
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/agregando%20rama%20daniel.png)
+![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/rama%20agregada%20daniel.png)
 
 4.	Tanto owner como colaborador hacen un cambio en el README.md y hacen un Pull Request (PR) a la rama main/master
    
