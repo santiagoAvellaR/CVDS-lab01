@@ -74,7 +74,13 @@ De esta forma ya sabes resolver conflictos directamente sobre los archivos y usa
 
 ## PARTE III (Trabajo de a parejas)
 1.	¿Hay una mejor forma de trabajar con git para no tener conflictos?
+   Si, seria el trabajar en ramas, evidenciando el objetivo por el nombre de esta y asi cuidar de la rama principal por posibles errores que se puedan generar, como los conflictos, ademas de generar un orden 
+   claro de trabajo en el que para grupos grandes es muy beneficioso ya que se dividen por tareas, caracteristicas u objetivos. Luego de verificar que se cumple correctamente se unen estas ramas a la 
+   principal.
 2.	¿Qué es y como funciona el **Pull Request**?
+   El Pull Request es una solicitud que se hace para que se puedan revisar y aprobar los cambios que se quieren realizar en una rama, para que eventulmente se fusione con otra.
+   Para realizarlo se debe en primer lugar crear una rama, luego subir esos cambios, abrir o crear un Pull Request, verificacion de los cambios y aprobacion y por ultimo la funcion con la rama de destino, 
+   asi integrando los cambios que se necesitaban.
 3.	Creen una rama cada uno y suban sus cambios
    
    ![image](https://github.com/PDSW-ECI/labs/assets/118181543/e558ac3b-f5d8-443a-8958-aacdedef7f94)
