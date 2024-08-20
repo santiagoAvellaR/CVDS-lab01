@@ -1,4 +1,6 @@
-# PARTE I (Trabajo Individual).
+# Respuestas
+
+## PARTE I (Trabajo Individual).
 1.	Crea un repositorio localmente.
 ![image](https://github.com/santiagoAvellaR/CVDS-lab01/blob/master/images/inicializar%20repositorio.png)
 2.	Agrega un archivo de ejemplo al repositorio, el **README.md** puede ser una gran opción.
@@ -122,6 +124,12 @@ Vamos al final y damos clic en Create
 Y así protegimos nuestra rama principal, esto se vuelve muy relevante cuando trabajamos en parejas o en equipos, deberían tener un mensaje final que se vea así
 
 ![image](https://github.com/PDSW-ECI/labs/assets/118181543/1e39b81c-82c8-4fec-b2e6-b339c782b6ad)
+
+## Integrantes
+
+- Daniel Fernando Aldana Bueno
+- Santiago Avellaneda Rodríguez
+
 Fecha: 17/08/24
 
 Materia: Ciclos de vida
